@@ -35,6 +35,9 @@
 uint16_t baslangicComptoGithub=0;
 uint16_t GithubtoComp=0;           // Githubtan bilgisayara ilk veri transferi
 uint16_t ComptoGithub=0;           // Bilgisayardan githuba veri transferi
+
+
+uint16_t	YeniBranch_ComptoBranch=0;    	// Yeni-Özellik branchine ilk değişken bilgisayardan eklendi.
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
