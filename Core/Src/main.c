@@ -37,7 +37,7 @@ uint16_t GithubtoComp=0;           // Githubtan bilgisayara ilk veri transferi
 uint16_t ComptoGithub=0;           // Bilgisayardan githuba veri transferi
 
 
-uint16_t	YeniBranch_ComptoBranch=0;    	// Yeni-Özellik branchine ilk değişken bilgisayardan eklendi.
+uint16_t YeniBranch_ComptoBranch=0;    	// Yeni-Özellik branchine ilk değişken bilgisayardan eklendi.
 uint16_t YeniBranch_GithubtoComp=0;     // Yeni-Özellik branchine githubtan yeni bir değişken eklendi.
 /* USER CODE END PD */
 
