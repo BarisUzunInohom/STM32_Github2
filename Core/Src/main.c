@@ -34,6 +34,7 @@
 
 uint16_t baslangicComptoGithub=0;
 uint16_t GithubtoComp=0;           // Githubtan bilgisayara ilk veri transferi
+uint16_t ComptoGithub=0;           // Bilgisayardan githuba veri transferi
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
