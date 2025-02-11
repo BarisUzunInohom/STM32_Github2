@@ -32,7 +32,8 @@
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
 
-	uint16_t baslangicComptoGithub=0;
+uint16_t baslangicComptoGithub=0;
+uint16_t GithubtoComp=0;           // Githubtan bilgisayara ilk veri transferi
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
