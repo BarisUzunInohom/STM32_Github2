@@ -43,6 +43,7 @@ uint16_t YeniBranch_GithubtoComp=0;     // Yeni-Özellik branchine githubtan yen
 uint16_t ForkDeneme1_Comp=0;			  // Forka ekleme denemesi sonrası bilgisayardan eklendi.
 uint16_t ForkDeneme2_Github=0;			// Forka ekleme denemesi sonrası Githubtan eklendi.
 uint16_t ForkDeneme3_Github=0;			// Forka ekleme denemesi sonrası Githubtan eklendi.
+uint16_t ForkDeneme4_Github=0;			// Forka ekleme denemesi sonrası Githubtan eklendi.
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
