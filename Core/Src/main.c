@@ -40,7 +40,8 @@ uint16_t ComptoGithub=0;           // Bilgisayardan githuba veri transferi
 uint16_t YeniBranch_ComptoBranch=0;    	// Yeni-Özellik branchine ilk değişken bilgisayardan eklendi.
 uint16_t YeniBranch_GithubtoComp=0;     // Yeni-Özellik branchine githubtan yeni bir değişken eklendi.
 
-uint16_t ForkDeneme1_Comp=0;			// Forka ekleme denemesi sonrası bilgisayardan eklendi.
+uint16_t ForkDeneme1_Comp=0;			  // Forka ekleme denemesi sonrası bilgisayardan eklendi.
+uint16_t ForkDeneme2_Github=0;			// Forka ekleme denemesi sonrası Githubtan eklendi.
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
